@@ -1,0 +1,1 @@
+These are exercises for the last two days of this class.
