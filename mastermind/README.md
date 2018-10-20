@@ -31,10 +31,9 @@ cd ..<br/>
 cp -an ctd2 myctd2<br/>
 cd ~/workspace/myctd2/ctd2/mastermind<br/>
 touch board.rb<br/>
-touch player.rb<br/>
 
-Then run ruby mmtest.rb.  It will tell you to make changes to board.rb and 
-player.rb.  All of your work should be in the<br/>
+Then run ruby mmtest.rb.  It will tell you to make changes to board.rb.<br/>
+All of your work should be in the<br/>
 ~/workspace/myctd2/ctd2/mastermind<br/>
 directory.<br/>
 
