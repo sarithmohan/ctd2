@@ -50,7 +50,7 @@ def main
     puts "evaluate_guess is not right yet."
   end
   
-  puts "Once you get evaluate guess working, you are ready to write the game."
+  puts "Once you get evaluate_guess working, you are ready to write the game."
   puts "You will need another two classes, "
   puts "Player in player.rb and MMGame in mmgame.rb.  I have provided pseudocode for these"
   puts "two classes.  Just copy player.rb.txt to player.rb and mmgame.rb.txt to mmgame.rb."
