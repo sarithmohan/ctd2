@@ -11,9 +11,13 @@ The second idea is that we may need to make a copy of an array.  Suppose you
 have
 
 array_a = [1,2,3]
-and then you do the following<
+
+and then you do the following
+
 array_b = array_a
+
 array_b << 4
+
 puts array_a.to_s
 
 Try it in irb!  You will see that when you change array_b, you also change
