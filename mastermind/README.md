@@ -26,7 +26,7 @@ Once you do this, you can change array_b without changing array_a.
 
 Exercise
 
-In your c9 clone of this workspace, to go the ct2/masterminde directory. Use
+In your c9 clone of this workspace, to go the ct2/mastermind directory. Use
 the command:
 
 touch board.rb
