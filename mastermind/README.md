@@ -11,9 +11,13 @@ The second idea is that we may need to make a copy of an array.  Suppose you
 have
 
 array_a = [1,2,3]
-and then you do the following<
+
+and then you do the following
+
 array_b = array_a
+
 array_b << 4
+
 puts array_a.to_s
 
 Try it in irb!  You will see that when you change array_b, you also change
@@ -26,7 +30,7 @@ Once you do this, you can change array_b without changing array_a.
 
 Exercise
 
-In your c9 clone of this workspace, to go the ct2/masterminde directory. Use
+In your c9 clone of this workspace, to go the ct2/mastermind directory. Use
 the command:
 
 touch board.rb
